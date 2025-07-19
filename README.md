@@ -53,7 +53,7 @@ This project analyzes car sales data across various dealerships to uncover insig
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](https://github.com/Jatin-Chaurawar/CARs-Sales-Analysis-Power-BI-Dashboard-/blob/main/CarsSales.png)
+![Dashboard Overview](https://github.com/Jatin-Chaurawar/CARs-Sales-Analysis-Power-BI-Dashboard-/blob/main/carsSales.png)
 
 ```markdown
 ![Automotive Sales Dashboard](CarsSales.png)
