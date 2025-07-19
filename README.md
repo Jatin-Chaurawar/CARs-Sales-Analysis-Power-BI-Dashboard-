@@ -3,7 +3,7 @@
 This project analyzes car sales data across various dealerships to uncover insights related to revenue, dealership performance, and customer trends. The interactive dashboard was built using Power BI with data from CSV sources.
 
 ---
-Automotive Sales Dashboard](assets/auto_dashboard.png)
+Automotive Sales Dashboard](https://github.com/Jatin-Chaurawar/CARs-Sales-Analysis-Power-BI-Dashboard-/blob/main/CarsSales.png)
 
 ## 📁 Project Files
 
